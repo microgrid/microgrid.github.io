@@ -1,4 +1,4 @@
-# Click ![here](https://htmlpreview.github.io/?https://github.com/microgrid/microgrid.github.io/blob/gh-pages/index.html#services) to see the webpage
+# Click [here](https://htmlpreview.github.io/?https://github.com/microgrid/microgrid.github.io/blob/gh-pages/index.html#services) to see the webpage
 
 # Webpage for Bhutan project
 
